@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react';
-import { NewsContext } from '../NewsContext'
+import { NewsContext } from './NewsContext'
 import NewsArticle from './NewsArticle';
 
 
